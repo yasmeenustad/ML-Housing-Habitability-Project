@@ -28,4 +28,5 @@ A Solo project by Myself. In this project, based on the given features like Prop
  
 After creating model (i.e., Linear Regression Model) got Root mean square error as 8.9 which is equal to 9, that is the Accuracy score is 91%. So the model is very good.
 
+
 (Linear Regression: Linear regression is a simple but powerful machine learning algorithm that predicts a numeric value based on one or more input variables.)
