@@ -26,7 +26,6 @@ A Solo project by Myself. In this project, based on the given features like Prop
 3. mean_absolute_error =  7.225712659162546
 4. root_mean_absolute_error =  8.976542483429117
  
-After creating model (i.e., Linear Regression Model) got Root mean square error as 8.9 which is equal to 9, that is the Accuracy score is 91%. So the model is very good.
-
+After creating model (i.e., Linear Regression Model) got R2_Score as 0.59524 which is equal to 0.6, which means our model is neither bad nor the perfectly good model, but it is a good model.
 
 ("Linear regression is a simple but powerful machine learning algorithm that predicts a numeric value based on one or more input variables.")
