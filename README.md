@@ -38,6 +38,11 @@ This project is focused on developing an accurate predictive model to estimate t
     - Utilizing a Linear Regression model,  predicted the target variable, Habitability Score.  Then assessed the model's performance through metrics like Mean Square Error, R2 Score, and Accuracy for a thorough 
       evaluation.
 
+<div id="header" align="center">
+    <img src="https://github.com/yasmeenustad/Housing_Habitability-Prediction-ML-Project/assets/112754746/96e2ef23-14a4-4d44-b151-e59d138f06f5"  height="500" width="800"/>
+</div>
+
+
 ## Accuracy:
 1. r2 Score =  0.5952475258109688
 2. mean_squared_error =  80.5783149568078
