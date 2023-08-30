@@ -1,6 +1,10 @@
 # Housing Habitability Prediction!
 In this project, based on the given features like Property Type, Property Area, Number of Doors, Furnishing, Frequency of Powercuts, Power Backup Water Supply, Traffic Density Score, Crime Rate, Dust and Noise, Air Quality Index, Neighborhood Review in the data set predicted the Habitability Score for the houses. 
 
+<div id="header" align="center">
+    <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/05bac31e-b6ac-462e-9744-4fd1e09b2225"  height="350" width="800"/>
+</div>
+
 ##  <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/030e1f21-e04f-4cbd-b301-3576c8c1acc3"  width="48" height="48"> Aim:
 This project is focused on developing an accurate predictive model to estimate the Habitability Score of houses using a range of input features. By leveraging machine learning methodologies, the objective is to create a dependable model aiding prospective homebuyers and renters in making informed decisions regarding potential residences.
 
