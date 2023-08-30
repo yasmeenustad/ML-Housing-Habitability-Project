@@ -41,8 +41,8 @@ This project is focused on developing an accurate predictive model to estimate t
 <div id="header" align="center">
    <img src="https://github.com/yasmeenustad/Housing_Habitability-Prediction-ML-Project/assets/112754746/1d9fdf25-b76c-4477-91af-fc0297aae7bf"  height="500" width="800"/>
    <img src="https://github.com/yasmeenustad/Housing_Habitability-Prediction-ML-Project/assets/112754746/116f408d-70cb-4171-aa3d-6a23e5233a8c"  height="500" width="800"/>
+   <img src="https://github.com/yasmeenustad/Housing_Habitability-Prediction-ML-Project/assets/112754746/a8da6e18-6f51-45e9-9e05-235d1be21645"  height="500" width="800"/>
 </div>
-
 
 ## Accuracy:
 1. r2 Score =  0.5952475258109688
