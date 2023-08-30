@@ -39,9 +39,9 @@ This project is focused on developing an accurate predictive model to estimate t
       evaluation.
 
 <div id="header" align="center">
-    <img src="https://github.com/yasmeenustad/Housing_Habitability-Prediction-ML-Project/assets/112754746/96e2ef23-14a4-4d44-b151-e59d138f06f5"  height="500" width="800"/>
+   <img src="https://github.com/yasmeenustad/Housing_Habitability-Prediction-ML-Project/assets/112754746/5536e887-9221-4ba2-89bc-5f01a55c3e92"  height="500" width="800"/>
 </div>
-
+ 
 
 ## Accuracy:
 1. r2 Score =  0.5952475258109688
