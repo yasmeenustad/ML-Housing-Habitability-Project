@@ -24,17 +24,20 @@ This project is focused on developing an accurate predictive model to estimate t
   - Elimination of Redundant Columns:
     - In the pursuit of a streamlined dataset, redundant columns—those offering minimal or negligible information—were systematically pinpointed. Once identified, these columns were eliminated, contributing to an                optimized dataset for subsequent analyses and model training.
 
-Data Visualization:
-Data visualization techniques were employed to provide a visual representation of the dataset's characteristics. Utilizing graphs, plots, and charts, essential insights were extracted, aiding in identifying trends, relationships, and potential correlations among variables.
+  - Data Visualisation:
+    - Utilized Visual Analytical Techniques and employed pair plots and heatmaps to assess interrelationships among numerical variables, box plots to identify potential outliers, and bar plots to evaluate the distribution       of categorical attributes.  can i write like this
 
-Scaling and Encoding:
-To standardize the scales of numerical features, the Standardization technique was applied, ensuring that all variables contribute equally to the model. Furthermore, categorical features were transformed into a numerical format using one-hot encoding, facilitating their integration into the predictive model.
+  - Scaling and Encoding:
+    - **Standardization** technique was applied to achieve uniform scales for numerical features, ensuring equal contribution of variables to the model.
+    - **One-hot encoding** was employed to convert categorical attributes into numeric representations, facilitating seamless integration into the predictive model.
+      
+- **Data Preparation:**
+    - In this phase, the dataset was structured and formatted to be ready for model training. This included splitting the data into training and testing sets, enabling the assessment of model performance on unseen data.
 
-Data Preparation:
-In this phase, the dataset was structured and formatted to be ready for model training. This included splitting the data into training and testing sets, enabling the assessment of model performance on unseen data.
+- **Model Building:**
+    - Utilizing a Linear Regression model,  predicted the target variable, Habitability Score.  Then assessed the model's performance through metrics like Mean Square Error, R2 Score, and Accuracy for a thorough 
+      evaluation.
 
-Model Building:
-The pivotal task of constructing the predictive model commenced, involving the application of regression analysis techniques. The dataset was employed to train the model, and a subset of the data was set aside for validation. Model parameters were fine-tuned to achieve optimal performance, leading to a finalized predictive model capable of estimating the Habitability Score.
 ## Python Libraries Used:
 1. Pandas
 2. Numpy
