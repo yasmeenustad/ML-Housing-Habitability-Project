@@ -1,6 +1,31 @@
 # Housing Habitability Prediction!
 In this project, based on the given features like Property Type, Property Area, Number of Doors, Furnishing, Frequency of Powercuts, Power Backup Water Supply, Traffic Density Score, Crime Rate, Dust and Noise, Air Quality Index, Neighborhood Review in the data set predicted the Habitability Score for the houses. 
 
+##  <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/030e1f21-e04f-4cbd-b301-3576c8c1acc3"  width="48" height="48"> Aim:
+This project is focused on developing an accurate predictive model to estimate the Habitability Score of houses using a range of input features. By leveraging machine learning methodologies, the objective is to create a dependable model aiding prospective homebuyers and renters in making informed decisions regarding potential residences.
+
+##  <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/057551de-877a-4a41-916c-d47e81053404"  width="48" height="48"> Objectives:
+Data Exploration:
+During the initial phase, an in-depth exploration of the dataset was conducted to gain a comprehensive understanding of its structure and contents. This involved identifying the range and distribution of features, investigating potential outliers, and gaining insights into the inherent patterns within the data.
+
+Data Cleaning:
+Duplicate Detection and Removal: To maintain dataset integrity, an exhaustive search was conducted to identify and eliminate duplicate records. This step ensured the dataset's accuracy by avoiding repetition of data points.
+
+Handling Null and Noisy Values: Strategic techniques were employed to address null and noisy values. For missing values, imputation methods were applied to replace them with reasonable approximations. Noise reduction techniques were also implemented to enhance data reliability by filtering out irrelevant or inconsistent data points.
+
+Dropping Redundant Columns: In the pursuit of a streamlined dataset, redundant columns—those offering minimal or negligible information—were systematically pinpointed. Once identified, these columns were eliminated, contributing to an optimized dataset for subsequent analyses and model training.
+
+Data Visualization:
+Data visualization techniques were employed to provide a visual representation of the dataset's characteristics. Utilizing graphs, plots, and charts, essential insights were extracted, aiding in identifying trends, relationships, and potential correlations among variables.
+
+Scaling and Encoding:
+To standardize the scales of numerical features, the Standardization technique was applied, ensuring that all variables contribute equally to the model. Furthermore, categorical features were transformed into a numerical format using one-hot encoding, facilitating their integration into the predictive model.
+
+Data Preparation:
+In this phase, the dataset was structured and formatted to be ready for model training. This included splitting the data into training and testing sets, enabling the assessment of model performance on unseen data.
+
+Model Building:
+The pivotal task of constructing the predictive model commenced, involving the application of regression analysis techniques. The dataset was employed to train the model, and a subset of the data was set aside for validation. Model parameters were fine-tuned to achieve optimal performance, leading to a finalized predictive model capable of estimating the Habitability Score.
 ## Python Libraries Used:
 1. Pandas
 2. Numpy
@@ -8,17 +33,6 @@ In this project, based on the given features like Property Type, Property Area, 
 4. Matplotlib.pyplot
 5. Sklearn
 
-## Steps invole:
-1. Importing different Python Libraries
-2. Importing Data set
-3. Data Exploration
-4. Data Cleaning
-5. Standardization (On Numerical columns) One hot encoding (On Categorical columns)
-6. Data visualization
-7. Data Preparation
-8. Model Creation (Linear Regression Model)
-9. Prediction
-10. Accracy check (Using Mean squared error, Root mean squar error, Absolute Error, and R2 Score)
 
 ## Accuracy:
 1. r2 Score =  0.5952475258109688
