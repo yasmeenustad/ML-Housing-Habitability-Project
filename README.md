@@ -39,11 +39,11 @@ This project is focused on developing an accurate predictive model to estimate t
       evaluation.
 
 ## Python Libraries Used:
-1. Pandas
-2. Numpy
-3. Seaborn
-4. Matplotlib.pyplot
-5. Sklearn
+- **Pandas** simplifies data manipulation with versatile structures like DataFrames, essential for tasks from loading to preprocessing in data analysis.
+
+- **Seaborn, Matplotlib** visualization libraries empower users to create insightful plots, enhancing data exploration.
+
+- **Sklearn** provides a comprehensive toolkit for building and evaluating machine learning models.
 
 
 ## Accuracy:
