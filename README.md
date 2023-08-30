@@ -10,15 +10,19 @@ In this project, based on the given features like Property Type, Property Area, 
 This project is focused on developing an accurate predictive model to estimate the Habitability Score of houses using a range of input features. By leveraging machine learning methodologies, the objective is to create a dependable model aiding prospective homebuyers and renters in making informed decisions regarding potential residences.
 
 ##  <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/057551de-877a-4a41-916c-d47e81053404"  width="48" height="48"> Objectives:
-Data Exploration:
-During the initial phase, an in-depth exploration of the dataset was conducted to gain a comprehensive understanding of its structure and contents. This involved identifying the range and distribution of features, investigating potential outliers, and gaining insights into the inherent patterns within the data.
 
-Data Cleaning:
-Duplicate Detection and Removal: To maintain dataset integrity, an exhaustive search was conducted to identify and eliminate duplicate records. This step ensured the dataset's accuracy by avoiding repetition of data points.
+- **Data Exploration:**
+  - During the data extraction phase, key tasks encompassed assessing data shape, generating a statistical summary, and validating column quantity to establish a solid analytical groundwork."
 
-Handling Null and Noisy Values: Strategic techniques were employed to address null and noisy values. For missing values, imputation methods were applied to replace them with reasonable approximations. Noise reduction techniques were also implemented to enhance data reliability by filtering out irrelevant or inconsistent data points.
+- **Data Cleaning:**
+  - Duplicate Detection and Removal:
+      - To maintain dataset integrity, an exhaustive search was conducted to identify and eliminate duplicate records. This step ensured the dataset's accuracy by avoiding repetition of data       points.
 
-Dropping Redundant Columns: In the pursuit of a streamlined dataset, redundant columns—those offering minimal or negligible information—were systematically pinpointed. Once identified, these columns were eliminated, contributing to an optimized dataset for subsequent analyses and model training.
+  - Handling Null and Noisy Values:
+    - Strategic techniques were employed to address null and noisy values. For missing values, imputation methods were applied to replace them with reasonable approximations. Noise reduction techniques were also                 implemented to enhance data reliability by filtering out irrelevant or inconsistent data points.
+
+  - Elimination of Redundant Columns:
+    - In the pursuit of a streamlined dataset, redundant columns—those offering minimal or negligible information—were systematically pinpointed. Once identified, these columns were eliminated, contributing to an                optimized dataset for subsequent analyses and model training.
 
 Data Visualization:
 Data visualization techniques were employed to provide a visual representation of the dataset's characteristics. Utilizing graphs, plots, and charts, essential insights were extracted, aiding in identifying trends, relationships, and potential correlations among variables.
