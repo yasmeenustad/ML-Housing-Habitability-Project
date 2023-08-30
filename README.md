@@ -40,6 +40,7 @@ This project is focused on developing an accurate predictive model to estimate t
 
 <div id="header" align="center">
    <img src="https://github.com/yasmeenustad/Housing_Habitability-Prediction-ML-Project/assets/112754746/5536e887-9221-4ba2-89bc-5f01a55c3e92"  height="500" width="800"/>
+   <img src="https://github.com/yasmeenustad/Housing_Habitability-Prediction-ML-Project/assets/112754746/116f408d-70cb-4171-aa3d-6a23e5233a8c"  height="500" width="800"/>
 </div>
  
 
