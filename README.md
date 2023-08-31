@@ -9,6 +9,13 @@ In this project, based on the given features like Property Type, Property Area, 
 ##  <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/030e1f21-e04f-4cbd-b301-3576c8c1acc3"  width="48" height="48"> Aim:
 This project is focused on developing an accurate predictive model to estimate the Habitability Score of houses using a range of input features. By leveraging machine learning methodologies, the objective is to create a dependable model aiding prospective homebuyers and renters in making informed decisions regarding potential residences.
 
+## Python Libraries Used:
+- **Pandas** simplifies data manipulation with versatile structures like DataFrames, essential for tasks from loading to preprocessing in data analysis.
+
+- **Seaborn, Matplotlib** visualization libraries empower users to create insightful plots, enhancing data exploration.
+
+- **Sklearn** provides a comprehensive toolkit for building and evaluating machine learning models.
+  
 ##  <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/057551de-877a-4a41-916c-d47e81053404"  width="48" height="48"> Objectives:
 
 - **Data Exploration:**
@@ -51,15 +58,5 @@ This project is focused on developing an accurate predictive model to estimate t
 4. root_mean_absolute_error =  8.976542483429117
  
 After creating model (i.e., Linear Regression Model) got R2_Score as 0.59524 which is equal to 0.6, which means our model is neither bad nor the perfectly good model, but it is a good model.
-
-## Python Libraries Used:
-- **Pandas** simplifies data manipulation with versatile structures like DataFrames, essential for tasks from loading to preprocessing in data analysis.
-
-- **Seaborn, Matplotlib** visualization libraries empower users to create insightful plots, enhancing data exploration.
-
-- **Sklearn** provides a comprehensive toolkit for building and evaluating machine learning models.
-
-
-
 
 ("Linear regression is a simple but powerful machine learning algorithm that predicts a numeric value based on one or more input variables.")
