@@ -6,6 +6,7 @@ In this project, based on the given features like Property Type, Property Area, 
 </div>
 
 ##  <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/030e1f21-e04f-4cbd-b301-3576c8c1acc3"  width="48" height="48"> Aim:
+
 This project is focused on developing an accurate predictive model to estimate the Habitability Score of houses using a range of input features. By leveraging machine learning methodologies, the objective is to create a dependable model aiding prospective homebuyers and renters in making informed decisions regarding potential residences.
 
 ## Python Libraries Used:
