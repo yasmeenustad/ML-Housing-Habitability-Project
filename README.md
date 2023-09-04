@@ -44,6 +44,8 @@ This project is focused on developing an accurate predictive model to estimate t
 - **Model Building:**
     - Utilizing a Linear Regression model,  predicted the target variable, Habitability Score.  Then assessed the model's performance through metrics like Mean Square Error, R2 Score, and Accuracy for a thorough 
       evaluation.
+      
+    - **Linear regression** is a simple but powerful machine learning algorithm that predicts a numeric value based on one or more input variables.
 
 <div id="header" align="center">
    <img src="https://github.com/yasmeenustad/Housing_Habitability-Prediction-ML-Project/assets/112754746/1d9fdf25-b76c-4477-91af-fc0297aae7bf"  height="400" width="800"/>
@@ -51,12 +53,10 @@ This project is focused on developing an accurate predictive model to estimate t
    <img src="https://github.com/yasmeenustad/Housing_Habitability-Prediction-ML-Project/assets/112754746/a8da6e18-6f51-45e9-9e05-235d1be21645"  height="400" width="800"/>
 </div>
 
-## Accuracy:
+## Evaluation metrics with Accuracy:
 1. r2 Score =  0.5952475258109688
 2. mean_squared_error =  80.5783149568078
 3. mean_absolute_error =  7.225712659162546
 4. root_mean_absolute_error =  8.976542483429117
  
-After creating model (i.e., Linear Regression Model) got R2_Score as 0.59524 which is equal to 0.6, which means our model is neither bad nor the perfectly good model, but it is a good model.
-
-("Linear regression is a simple but powerful machine learning algorithm that predicts a numeric value based on one or more input variables.")
+An R-squared (R2) score of 0.59524 (approximately 0.6) indicates that our linear regression model explains about 60% of the variance in the dependent variable. It suggests a moderate level of predictive power, neither extremely strong nor weak, and its suitability depends on specific context and goals.
