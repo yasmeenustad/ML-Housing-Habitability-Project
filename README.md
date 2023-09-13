@@ -62,7 +62,7 @@ This project is focused on developing an accurate predictive model to estimate t
 4. root_mean_absolute_error =  8.976542483429117
 
 <div id="header" align="center">
-   <img src="https://github.com/yasmeenustad/Excel-Based-Placements-Data-Analysis/assets/112754746/1b1b0aca-2fda-4844-8864-d4fdffce0521"  height="200" width="700"/>
+   <img src="https://github.com/yasmeenustad/ML-Housing-Habitability-Project/assets/112754746/0f47941f-4471-4b82-b2bd-a62fc4460dd9"  height="200" width="700"/>
 </div>
  
 An R-squared (R2) score of 0.59524 (approximately 0.6) indicates that our linear regression model explains about 60% of the variance in the dependent variable. It suggests a moderate level of predictive power, neither extremely strong nor weak, and its suitability depends on specific context and goals.
