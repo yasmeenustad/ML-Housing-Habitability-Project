@@ -86,8 +86,8 @@ An R-squared (R2) score of 0.59524 (approximately 0.6) indicates that our linear
       - To maintain data integrity, a meticulous search was conducted to identify and expunge duplicate records, ensuring data accuracy by eliminating redundant entries.
         
     - Handling Null and Noisy Values:
-      - Strategic techniques were employed to address missing and noisy values, using imputation methods to replace missing data with reasonable approximations and noise reduction techniques to enhance data reliability by 
-        filtering out irrelevant or inconsistent data points.
+      - Strategic techniques were employed to address missing and noisy values, using imputation methods to replace missing data with reasonable approximations and noise reduction techniques to enhance data reliability 
+        by filtering out irrelevant or inconsistent data points.
         
     - Elimination of Redundant Columns:
       - In pursuit of an optimized dataset, columns providing minimal or negligible information were systematically identified and subsequently removed, contributing to a streamlined dataset for subsequent analyses and 
