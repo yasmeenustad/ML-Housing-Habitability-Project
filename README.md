@@ -61,3 +61,42 @@ This project is focused on developing an accurate predictive model to estimate t
 4. root_mean_absolute_error =  8.976542483429117
  
 An R-squared (R2) score of 0.59524 (approximately 0.6) indicates that our linear regression model explains about 60% of the variance in the dependent variable. It suggests a moderate level of predictive power, neither extremely strong nor weak, and its suitability depends on specific context and goals.
+
+## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/603ad77e-2212-4b07-a75a-ffcabb0538f4" width="70" height="50"> Challenges:
+
+- **Data Quality Assurance:**
+    - Ensuring data integrity through processes like duplicate detection, null value handling, and column elimination poses a significant challenge. Guaranteeing that the dataset is clean and reliable is crucial for            accurate analysis and modeling.
+
+- **Feature Engineering and Representation:**
+    - Converting categorical attributes through one-hot encoding and achieving uniform scales for numerical features through standardization can be challenging. Effective feature engineering and representation are 
+      critical for building accurate predictive models.
+
+## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/2e256cec-1421-4c5f-9913-052a53dc470f" width="70" height="50"> Learnings:
+
+- **Data Exploration:**
+    - During this phase, critical tasks involve shaping the data, generating comprehensive statistical summaries, and rigorously validating column quantities to establish a robust foundation for analytical work.
+
+- **Data Cleaning:**
+    - Duplicate Detection and Removal:
+      - To maintain data integrity, a meticulous search was conducted to identify and expunge duplicate records, ensuring data accuracy by eliminating redundant entries.
+        
+    - Handling Null and Noisy Values:
+      - Strategic techniques were employed to address missing and noisy values, using imputation methods to replace missing data with reasonable approximations and noise reduction techniques to enhance data reliability by 
+        filtering out irrelevant or inconsistent data points.
+        
+    - Elimination of Redundant Columns:
+      - In pursuit of an optimized dataset, columns providing minimal or negligible information were systematically identified and subsequently removed, contributing to a streamlined dataset for subsequent analyses and 
+        model training.
+
+- **Scaling and Encoding:**
+    - Standardization:
+      - Standardization techniques were applied to achieve uniform scales for numerical features, ensuring equitable variable contributions to the predictive model.
+        
+    - One-Hot Encoding:
+      - Categorical attributes were transformed into numeric representations through one-hot encoding, facilitating seamless integration into the predictive modeling process.
+        
+- **Data Preparation:**
+      - This phase involved structuring and formatting the dataset for model training by partitioning it into training and testing sets, enabling the evaluation of model performance on previously unseen data.
+
+- **Model Building:**
+      - Employing a Linear Regression model, predictions were made for the target variable, Habitability Score, followed by a comprehensive assessment of model performance using metrics such as Mean Square Error, R2               Score, and Accuracy, ensuring a thorough model evaluation.
