@@ -9,7 +9,8 @@ In this project, based on the given features like Property Type, Property Area, 
 
 This project is focused on developing an accurate predictive model to estimate the Habitability Score of houses using a range of input features. By leveraging machine learning methodologies, the objective is to create a dependable model aiding prospective homebuyers and renters in making informed decisions regarding potential residences.
 
-## Python Libraries Used:
+##  <img src="https://github.com/yasmeenustad/ML-Housing-Habitability-Project/assets/112754746/bdcf12e8-89fa-47c5-a0c0-027b2d54a3e9"  width="48" height="48"> Python Libraries Used:
+
 - **Pandas** simplifies data manipulation with versatile structures like DataFrames, essential for tasks from loading to preprocessing in data analysis.
 
 - **Seaborn, Matplotlib** visualization libraries empower users to create insightful plots, enhancing data exploration.
