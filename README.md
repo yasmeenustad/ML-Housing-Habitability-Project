@@ -32,10 +32,10 @@ This project is focused on developing an accurate predictive model to estimate t
   - Elimination of Redundant Columns:
     - In the pursuit of a streamlined dataset, redundant columns—those offering minimal or negligible information—were systematically pinpointed. Once identified, these columns were eliminated, contributing to an                optimized dataset for subsequent analyses and model training.
 
-  - Data Visualisation:
+- **Data Visualisation:**
     - Utilized Visual Analytical Techniques and employed pair plots and heatmaps to assess interrelationships among numerical variables, box plots to identify potential outliers, and bar plots to evaluate the distribution       of categorical attributes.  can i write like this
 
-  - Scaling and Encoding:
+- **Scaling and Encoding:**
     - **Standardization** technique was applied to achieve uniform scales for numerical features, ensuring equal contribution of variables to the model.
     - **One-hot encoding** was employed to convert categorical attributes into numeric representations, facilitating seamless integration into the predictive model.
       
